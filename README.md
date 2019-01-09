@@ -3,7 +3,7 @@ This program allows you to work with uncertainties and do error propagation. Rig
 
 To create a value, use:
 
-Values(actual, uncertainty)
+`Values(actual, uncertainty)`
 
 All other operations are done by using actual operators.
 For example, you can add two values by simply doing value1 + value2.
